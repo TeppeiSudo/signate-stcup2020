@@ -43,3 +43,5 @@ SP(15th place)
 * ensembling
 
 * pseudo-labeling(it almost didn't work)
+
+* over-sampling(data class was imbalanced)
