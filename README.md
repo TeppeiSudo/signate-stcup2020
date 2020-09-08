@@ -38,7 +38,7 @@ SP(15th place)
 
 ## postprocess or others
 
-* 3fold-kfold(you should use 4 or more folds but transformers need a tons of memory...)
+* stratified-3fold(you should use 4 or more folds but transformers need a tons of memory...)
 
 * ensembling
 
