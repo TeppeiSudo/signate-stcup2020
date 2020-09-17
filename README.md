@@ -16,7 +16,7 @@ SP(15th place)
 
 * csRoBERTA(https://huggingface.co/allenai/cs_roberta_base)
 
-* furthe-pretrained BERT (pretrained by MaskedLM)
+* further-pretrained BERT (pretrained by MaskedLM)
 
 (csRoBERTa and further-pretrained BERT were not used for final submission.)
 
@@ -45,3 +45,5 @@ SP(15th place)
 * pseudo-labeling(it almost didn't work)
 
 * over-sampling(data class was imbalanced)
+
+* further-pretraining with Masked-Language-Model (you can use also Next-Sentence-Prediction-Model)
