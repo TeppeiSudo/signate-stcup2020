@@ -3,7 +3,11 @@ https://signate.jp/competitions/281
 
 SP(15th place)
 
-## transformers
+## task
+
+Predict job type based on text data (job description) included in job information
+
+## transformers (Sequence-Classification models)
 * BERT
 
 * RoBERTa
